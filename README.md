@@ -1,4 +1,4 @@
-# MySpoti releases
+# Waveify releases
 
 Downloads from  https://github.com/TheDarkRoby/waveify, based on https://github.com/kota-zo/myspoti.
 
